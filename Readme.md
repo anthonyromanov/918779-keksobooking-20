@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Антон Романов](https://up.htmlacademy.ru/javascript/20/user/918779).
-* Наставник: `Неизвестно`.
+* Наставник: [Кекс](https://up.htmlacademy.ru/javascript/20).
 
 ---
 
